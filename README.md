@@ -14,7 +14,7 @@ Perfect as a practice project or a starting point for a health-focused app.
 ## Demo
 
 💻 Live demo available here:  
-[Here](https://bassam‑radwan.github.io/bmi/)
+[Here](bassam-radwan.github.io/bmi/)
 
 ## Features
 
